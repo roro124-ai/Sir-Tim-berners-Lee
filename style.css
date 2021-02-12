@@ -33,14 +33,14 @@ body {
 h1 {
     font-size: 40px;
     line-height: 1.2;
-    font-family: 'Lato', sans-serif;
+    
     font-weight: 300;
 }
 
 #name {
     font-size: 30px;
     line-height: 1.2;
-    font-family: cursive;
+    font-family: 'Cinzel Decorative', cursive;
 }
 
 h2 {
@@ -103,8 +103,21 @@ p {
 .links:hover {
     background-color: aqua;
 }
-
-#name {
-    font-size: 30px;
-    line-height: 1.2px;
-    font-family:'Sriracha',cursive;
+a{
+    text-decoration: none;
+    
+}
+.article:hover{
+    color: brown;
+    
+}
+html{
+    scroll-behavior: smooth;
+    
+}
+#writing{
+    text-align: center;
+}
+#Work{
+    text-align: center;
+}
